@@ -1,6 +1,6 @@
-# Welcome to Russian Stealer Analysis + Source Code
+# Welcome to Bad Stealer Analysis + Source Code
 
-This repo provides analysis and source code for various Russian stealers, focusing especially on the poorly coded ones in Python.
+This repo provides analysis and source code for various bad stealers, focusing especially on the poorly coded ones in Python.
 
 Click on the text under this to get all infos about them!
 
