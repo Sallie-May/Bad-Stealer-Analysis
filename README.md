@@ -61,12 +61,6 @@ The stealer is hidden inside a lot of program, fake stealer, fake tools etc.. us
 import requests                                                                ;exec("code")
 ```
 
-The stealer is hidden inside a lot of program, fake stealer, fake tools etc.. using the ; technique.
-
-```py
-import requests                                                                ;exec("code")
-```
-
 It is doing requests.get() to a website and remove tag to get the code hidden inside of the fake Cloudflare blocked webpage
 
 The stealer seem original, but still pretty bad, nothing very advanced
