@@ -1,4 +1,4 @@
-# Welcome to Bad Stealer Analysis + Source Code
+# Welcome to Bad Stealer Analysis + Source Code + List of malware (github) account hoster
 
 This repo provides analysis and source code for various bad stealers, focusing especially on the poorly coded ones in Python.
 
