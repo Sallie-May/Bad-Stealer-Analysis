@@ -30,7 +30,7 @@ What it steal :
 - Telegram files
 - Discord token
 
-- It inject a modified asar file on Exodus
+- It inject a modified asar file on Exodus and Atomic
 
 - It search on the whole computer for these
 - Passwords and Account Information:
@@ -81,7 +81,7 @@ What it steal :
 - Telegram files
 - Discord token
 
-- It inject a modified asar file on Exodus
+- It inject a modified asar file on Exodus and Atomic
 
 - It search on the whole computer for these
 - Passwords and Account Information:
