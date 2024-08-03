@@ -105,7 +105,8 @@ RUN IN A VM
 
 </details>
 
-YOU CAN CONTRIBUTE TO THIS REPOSITORY
-RUN IN A VM
+You can contribute to this repository if you wish for
+
+Always run in a VM
+
 AND DONT USE ANY OF PROGRAM IM NOT RESPONSIBLE FOR YOUR ACTIONS
-+ they are soooo bad
