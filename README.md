@@ -19,6 +19,11 @@ It is doing requests.get() to a website and remove tag to get the code hidden in
 
 The stealer seem original, but still pretty bad, nothing very advanced
 
+They have an crypto miner too that is executed at some point 
+
+- https[:][/][/]kleinanzeigen[.]ru/hvnc.exe
+- https[:][/][/]kleinanzeigen[.]ru/miner.exe
+
 What it steal : 
 
 - Browser data (History, Cookies, Password and more!)
@@ -65,6 +70,11 @@ It is doing requests.get() to a website and remove tag to get the code hidden in
 
 The stealer seem original, but still pretty bad, nothing very advanced
 
+They have an crypto miner too that is executed at some point 
+
+- https[:][/][/]kleinanzeigen[.]ru/hvnc.exe
+- https[:][/][/]kleinanzeigen[.]ru/miner.exe
+- 
 What it steal : 
 
 - Browser data (History, Cookies, Password and more!)
