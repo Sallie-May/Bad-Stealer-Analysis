@@ -54,9 +54,8 @@ RUN IN A VM
 
 </details>
 
-
 <details>
-  <summary>Acab Stealer (1312 STEALER COPY</summary>
+  <summary>Acab Stealer (1312 STEALER COPY)</summary>
 
 ## A simple leak of this stealer that start to show up on as lot of python program as dualhook (Like 1312)
 
@@ -104,6 +103,29 @@ And even more data !
 RUN IN A VM
 
 </details>
+
+Because i'm bored here a small list of account that host malware NEVER download from them
+
+<details>
+  <summary> Github account list</summary>
+  
+```
+@joncema
+@webs0ckett
+@zevx-nz
+@Rabchin
+@Marcel1997
+@FriedrichScholl
+@XenooAZ
+@0PPHUNT3R - Not malware but may be a dualhook
+@prometheusdevelop
+@kelgleRCrpatty
+
+And pretty much everything that is constantly updated and with emoji like fire rocket and flame
+ ```
+</details>
+
+
 
 You can contribute to this repository if you wish for
 
