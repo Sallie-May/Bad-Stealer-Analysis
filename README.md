@@ -111,7 +111,7 @@ RUN IN A VM
   
 ```
 @joncema
-@webs0ckett
+@webs0ckett (Banned by me, insulting trans people get you ban after all ;))
 @zevx-nz
 @Rabchin
 @Marcel1997
