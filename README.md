@@ -1,5 +1,7 @@
 # Welcome to Bad Stealer Analysis + Source Code + List of malware (github) account hoster
 
+`You see any obfuscated repository that seem sketchy, open a issues, i will try to deobfuscate it.`
+
 This repo provides analysis and source code for various bad stealers, focusing especially on the poorly coded ones in Python.
 
 Click on the text under this to get all infos about them!
@@ -132,3 +134,4 @@ You can contribute to this repository if you wish for
 Always run in a VM
 
 AND DONT USE ANY OF PROGRAM IM NOT RESPONSIBLE FOR YOUR ACTIONS
+
