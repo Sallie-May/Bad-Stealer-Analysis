@@ -122,6 +122,7 @@ RUN IN A VM
 @0PPHUNT3R - Not malware but may be a dualhook
 @prometheusdevelop
 @kelgleRCrpatty
+@errias
 
 And pretty much everything that is constantly updated and with emoji like fire rocket and flame
  ```
