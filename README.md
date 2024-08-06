@@ -116,7 +116,7 @@ RUN IN A VM
 @webs0ckett (Banned by me, insulting trans people get you ban after all ;))
 @zevx-nz
 @Rabchin
-@Marcel1997
+@Marcel1997 (Banned by me)
 @FriedrichScholl
 @XenooAZ
 @0PPHUNT3R - Not malware but may be a dualhook
