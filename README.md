@@ -113,12 +113,11 @@ RUN IN A VM
   
 ```
 @joncema
-@webs0ckett (Banned by me, insulting trans people get you ban after all ;))
+@webs0ckett (Reported by me and got banned, insulting trans people get you ban after all ;))
 @zevx-nz
-@Rabchin
-@Marcel1997 (Banned by me)
-@FriedrichScholl
-@XenooAZ
+@Rabchin (Reported by me or maybe someone else and got banned)
+@Marcel1997 (Reported by me and got banned)
+@FriedrichScholl (Reported by me and got banned)
 @0PPHUNT3R - Not malware but may be a dualhook
 @prometheusdevelop
 @kelgleRCrpatty
