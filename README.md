@@ -1,4 +1,4 @@
-# Welcome to Bad Stealer Analysis + Source Code + List of malware (github) account hoster
+# Welcome to Stealer Analysis + Source Code + List of malware (github) account hoster
 
 `You see any obfuscated repository that seem sketchy, open a issues, i will try to deobfuscate it.`
 
