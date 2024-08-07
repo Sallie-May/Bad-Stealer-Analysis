@@ -112,7 +112,7 @@ RUN IN A VM
   <summary> Github account list</summary>
   
 ```
-@joncema
+@joncema  (Reported by me and got banned)
 @webs0ckett (Reported by me and got banned, insulting trans people get you ban after all ;))
 @zevx-nz
 @Rabchin (Reported by me or maybe someone else and got banned)
@@ -120,7 +120,7 @@ RUN IN A VM
 @FriedrichScholl (Reported by me and got banned)
 @0PPHUNT3R - Not malware but may be a dualhook
 @prometheusdevelop
-@kelgleRCrpatty
+@kelgleRCrpatty (Reported by me and got banned)
 @errias
 
 And pretty much everything that is constantly updated and with emoji like fire rocket and flame
