@@ -122,6 +122,9 @@ RUN IN A VM
 @prometheusdevelop
 @kelgleRCrpatty (Reported by me and got banned)
 @errias
+@theruebezahl
+@noth1ng86
+
 
 And pretty much everything that is constantly updated and with emoji like fire rocket and flame
  ```
