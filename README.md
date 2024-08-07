@@ -119,7 +119,7 @@ RUN IN A VM
 @Marcel1997 (Reported by me and got banned)
 @FriedrichScholl (Reported by me and got banned)
 @0PPHUNT3R - Not malware but may be a dualhook
-@prometheusdevelop
+@prometheusdevelop (Reported by me and got banned)
 @kelgleRCrpatty (Reported by me and got banned)
 @errias
 @theruebezahl
