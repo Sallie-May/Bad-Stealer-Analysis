@@ -114,7 +114,7 @@ RUN IN A VM
 ```
 @joncema  (Reported by me and got banned)
 @webs0ckett (Reported by me and got banned, insulting trans people get you ban after all ;))
-@zevx-nz
+@zevx-nz (Reported by me and got banned)
 @Rabchin (Reported by me or maybe someone else and got banned)
 @Marcel1997 (Reported by me and got banned)
 @FriedrichScholl (Reported by me and got banned)
